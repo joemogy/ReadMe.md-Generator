@@ -45,4 +45,4 @@
 
   ## Walkthrough Video
 
-  Link: https://github.com/Joemogy/ReadMe.md-Generator/blob/main/assets/videos/Walkthrough%20Video.mkv
+  Link: https://github.com/Joemogy/ReadMe.md-Generator/blob/main/assets/videos/Walkthrough-Video.mkv
